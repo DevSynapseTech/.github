@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# .github
-
 # DevSynapseTech DST
 Connecting minds through technology
 
