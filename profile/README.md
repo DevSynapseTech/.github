@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# DevSynapseTech DST
+# DevSynapseTech (DST) from Osperb
 Connecting minds through technology
 
 ## Overview 🙋‍♀️ 
