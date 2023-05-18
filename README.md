@@ -1,6 +1,6 @@
 # .github
 
-# DevSynapseTech DST
+# DevSynapseTech from Osperb
 Connecting minds through technology
 
 ## Overview
